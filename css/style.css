@@ -56,7 +56,7 @@ body {
 
 /** text styling **/
 #sGreetings {
-    color: #aca4c4;
+    color: #dcfffb;
     margin-top: 20px;
     font-size: 14px;
     margin-bottom: 40px;
@@ -65,20 +65,20 @@ body {
 
 .header-txt {
     margin: 10px;
-    color: #ffc1c6;
+    color: #9dcae9;
 }
 
 span {
-    color: #a39ec4;
+    color: #9dcae9;
 }
 
 .link {
     text-decoration: none;
-    color: #c49ea0;
+    color: #dcfffb;
     font-size: 15px;
 }
 .link:hover {
-    color: #a39ec4;
+    color: #c1e7e3;
 }
 
 /* responsive */
