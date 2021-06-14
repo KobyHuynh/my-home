@@ -20,7 +20,7 @@ function startTime() { // days
 
     document.getElementById('sGreetings').innerHTML = 
     'today is ' + '<b>' + days[today.getDay()] + '</b>' +
-    '<b>' + greet + '</b> rishi!';  //greet
+    '<b>' + greet + '</b> Koby!';  //greet
 }
 
 function checkTime(i) {
